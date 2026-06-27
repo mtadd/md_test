@@ -1,3 +1,3 @@
 # File 1
 
-[readme](/readme.md)
+[readme](/README.md)
